@@ -2,7 +2,8 @@
 
 ## Description
 
-Ceci est une landing page responsive pour un shop de chaises, réalisée dans le cadre de la formation Udemy https://www.udemy.com/share/101Wqo3@Af5rU4ak7OIVxanBQXEv8ZaBqTxPe_Il4wJKf-2cKL1WFKM-leK62SWK88GrLaz2Yg==/ .
+Ceci est une landing page responsive pour un shop de chaises, réalisée dans le cadre de la formation Udemy
+[udmey HTML CSS cours](https://www.udemy.com/share/101Wqo3@Af5rU4ak7OIVxanBQXEv8ZaBqTxPe_Il4wJKf-2cKL1WFKM-leK62SWK88GrLaz2Yg==/)
 
 ### La page présente :
 
@@ -13,9 +14,9 @@ Ceci est une landing page responsive pour un shop de chaises, réalisée dans le
 
 Toutes les sections sont construites à la main en HTML et CSS, utilisant Grid et Flexbox pour la mise en page.
 
-### lien du projet deployer
+## Voir le projet en ligne
 
-https://cynhlfn.github.io/Chair-shop-landing-page-HTML-CSS/
+Tu peux consulter le projet en direct ici : [Chair Shop Landing Page](https://cynhlfn.github.io/Chair-shop-landing-page-HTML-CSS/)
 
 ## Technologies utilisé
 
