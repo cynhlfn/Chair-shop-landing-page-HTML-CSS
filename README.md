@@ -1,4 +1,4 @@
-# 🪐 Chair Shop Landing Page (HTML/CSS)
+# 🪑 Chair Shop Landing Page (HTML/CSS)
 
 ## Description
 
